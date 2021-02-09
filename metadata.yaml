@@ -1,16 +1,21 @@
 _repo: Anguish-Languish_64432
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Doremus, Hal
     gutenberg_agent_id: '52896'
     url: http://www.gutenberg.org/2009/agents/52896
+covers:
+- cover_type: archival
+  image_path: 64432-h/images/cover.jpg
 creator:
   author:
     agent_name: Chace, Howard L.
     gutenberg_agent_id: '52895'
     url: http://www.gutenberg.org/2009/agents/52895
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64432#Anguish-Languish
 gutenberg_issued: '2021-01-31'
 gutenberg_type: Text
 identifiers:
